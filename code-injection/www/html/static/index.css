@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+}
+
+.container_form {
+    margin: 100px auto;
+    border: 1px solid #444;
+    padding: 0 20px 20px 20px;
+}
+
+button {
+    margin-top: 10px;
+}
